@@ -50,6 +50,20 @@ If you have:
 Running the script will create:
 - `show.S01E01.srt` (combined Japanese + English)
 
+Sample content from `show.S01E01.srt`:
+
+```
+1
+00:00:01,000 --> 00:00:04,000
+こんにちは
+Hello
+
+2
+00:00:05,000 --> 00:00:08,000
+今日はいい天気ですね
+It's a nice day today
+```
+
 ## Contributing
 
 1. Fork the repository.
