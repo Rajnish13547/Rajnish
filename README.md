@@ -2,6 +2,8 @@
 
 A Python script to extract Japanese subtitles from MKV video files and merge them with corresponding English subtitles (.ass or .srt) into combined SRT files.
 
+I created this project while watching *Terrace House: Boys × Girls Next Door* from local MKV files. For language immersion, I wanted subtitles displayed side by side to quickly filter out unknown words and patterns that I don't recognize.
+
 ## Features
 
 - Extracts embedded Japanese subtitles from MKV files using ffmpeg.
